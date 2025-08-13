@@ -17,31 +17,31 @@ This repository brings together practical, working examples of modern GenAI syst
 
 ## 🧩 Features (cross-domain)
 
-* **Local LLM Apps (Ollama + Gradio)** — fast, private prototyping with a simple UI.
-* **Web scrape → summary (OpenAI)** — turn long pages into concise takeaways.
-* **Structured generation (Gemini)** — JSON-first outputs for downstream automation.
-* **Vertex AI text generation** — synchronous and streaming responses with tunable params.
-* **Idea generation (DeepSeek + Gradio)** — lightweight, prompt-driven apps.
-* **LangChain essentials** — prompt templates, output parsers, loaders/splitters, embeddings, similarity search, Chroma vector DB, single/sequential/router/LLMMath chains.
-* **Hugging Face ops** — model repo creation, local → remote pushes, token best practices.
-* **NotebookLM** — long-context, multi-modal summarization with source grounding.
-* **Azure AI Foundry & Azure OpenAI** — model catalog, deployments, playgrounds.
-* **RAG with Prompt Flow** — standard and chat flows with index lookup.
+* **Local LLM Apps (Ollama + Gradio)** : fast, private prototyping with a simple UI.
+* **Web scrape → summary (OpenAI)** : turn long pages into concise takeaways.
+* **Structured generation (Gemini)** : JSON-first outputs for downstream automation.
+* **Vertex AI text generation** : synchronous and streaming responses with tunable params.
+* **Idea generation (DeepSeek + Gradio)** : lightweight, prompt-driven apps.
+* **LangChain essentials** : prompt templates, output parsers, loaders/splitters, embeddings, similarity search, Chroma vector DB, single/sequential/router/LLMMath chains.
+* **Hugging Face ops** : model repo creation, local → remote pushes, token best practices.
+* **NotebookLM** : long-context, multi-modal summarization with source grounding.
+* **Azure AI Foundry & Azure OpenAI** : model catalog, deployments, playgrounds.
+* **RAG with Prompt Flow** : standard and chat flows with index lookup.
 
 ## ☁️ Multi-Cloud Coverage
 
-* **Azure** — Azure OpenAI, AI Foundry, embeddings, image generation, agents.
-* **GCP** — Gemini API, Vertex AI SDK, streaming outputs, model selection.
-* **AWS** — SageMaker/Bedrock examples for text and image generation workflows.
+* **Azure** : Azure OpenAI, AI Foundry, embeddings, image generation, agents.
+* **GCP** : Gemini API, Vertex AI SDK, streaming outputs, model selection.
+* **AWS** : SageMaker/Bedrock examples for text and image generation workflows.
 
 
 ## 🧪 Example Apps (at a glance)
 
-* **Itinerary Planner** (Ollama + Gradio) — conversational planning UI.
-* **Wiki Summarizer** (OpenAI + Gradio) — URL in, summary out.
-* **Meal Suggestions** (Gemini) — macro targets to structured JSON plans.
-* **Recipe Ideas** (DeepSeek + Gradio) — ingredients/cuisine to draft recipes.
-* **Vertex Text Gen** — quick prompts in sync and streaming modes.
+* **Itinerary Planner** (Ollama + Gradio) : conversational planning UI.
+* **Wiki Summarizer** (OpenAI + Gradio) : URL in, summary out.
+* **Meal Suggestions** (Gemini) : macro targets to structured JSON plans.
+* **Recipe Ideas** (DeepSeek + Gradio) : ingredients/cuisine to draft recipes.
+* **Vertex Text Gen** : quick prompts in sync and streaming modes.
 
 ## 📚 References
 
