@@ -32,7 +32,7 @@ This repository brings together practical, working examples of modern GenAI syst
 
 * **Azure** — Azure OpenAI, AI Foundry, embeddings, image generation, agents.
 * **GCP** — Gemini API, Vertex AI SDK, streaming outputs, model selection.
-* **AWS** — SageMaker examples for text and image generation workflows.
+* **AWS** — SageMaker/Bedrock examples for text and image generation workflows.
 
 ## 🛠️ GenAI Ops (production-minded)
 
