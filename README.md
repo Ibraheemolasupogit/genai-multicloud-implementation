@@ -2,7 +2,7 @@
 
 **Ollama · LangChain · Hugging Face · OpenAI · Gemini/Vertex · Azure AI · SageMaker**
 
-> End-to-end, production-minded GenAI implementations across local and cloud environments, with reusable patterns you can adapt to any domain.
+> End-to-end, production-minded GenAI implementations across local and cloud environments, with reusable patterns.
 
 ## 🚀 Overview
 
@@ -34,12 +34,6 @@ This repository brings together practical, working examples of modern GenAI syst
 * **GCP** — Gemini API, Vertex AI SDK, streaming outputs, model selection.
 * **AWS** — SageMaker/Bedrock examples for text and image generation workflows.
 
-## 🛠️ GenAI Ops (production-minded)
-
-* Config and secrets via environment variables and `.env.example` patterns.
-* Prompt and runtime controls (temperature, max tokens, output schemas).
-* Small, modular scripts and notebooks for reproducible experiments.
-* Vendor-agnostic abstractions where possible for portability.
 
 ## 🧪 Example Apps (at a glance)
 
